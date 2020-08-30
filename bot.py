@@ -47,7 +47,6 @@ async def ahelp(ctx):
   setstatus  Set bot playing message                   (Admin only)
   setip      Change the ip used by the bot             (Admin only)
   resetip    Reset the ip used by the bot              (Admin only)
-  setip      Change the ip used by the bot             (Admin only)
   listadmin  Lists roles allowed to use admin commands (Admin only)
   help       Help manu with admin only commands hidden
   info       Shows bot info
